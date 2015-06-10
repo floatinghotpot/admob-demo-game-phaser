@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	id="cordova-admob-demo-game-phaser"
+	version="1.0.0">
+      
+    <name>Cordova AdMob plugin game demo</name>
+	<description>Demo game for Cordova AdMob plugin, using phaser game engine</description>
+	<author>Liming Xie</author>
+	<license>MIT</license>
+	<keywords>rjfun,admob,google,ad</keywords>
+    <repo>https://github.com/floatinghotpot/cordova-admob-demo-game-phaser.git</repo>
+    <issue>https://github.com/floatinghotpot/cordova-admob-demo-game-phaser/issues</issue>
+
+	<engines>
+	    <engine name="cordova" version=">=3.0" />
+	</engines>
+
+	<dependency id="cordova-plugin-admobpro" />
+
+    <platform name="android">
+    </platform>
+     
+     <!-- ios -->
+     <platform name="ios">
+	</platform>
+
+     <platform name="wp8">
+     </platform>
+
+     <platform name="windows">
+     </platform>    
+</plugin>

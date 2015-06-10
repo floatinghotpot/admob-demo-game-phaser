@@ -1,0 +1,33 @@
+{
+  "name": "cordova-admob-demo-game-phaser",
+  "version": "1.0.0",
+  "description": "Demo game for Cordova AdMob plugin, using phaser game engine",
+  "cordova": {
+    "id": "cordova-admob-demo-game-phaser",
+    "platforms": [
+      "android",
+      "ios",
+      "wp8",
+      "windows"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/floatinghotpot/cordova-admob-demo-game-phaser.git"
+  },
+  "bugs": {
+    "url": "https://github.com/floatinghotpot/cordova-admob-demo-game-phaser/issues"
+  },
+  "keywords": [
+    "cordova",
+    "ecosystem:cordova",
+    "ad",
+    "admob",
+    "google",
+    "rjfun"
+  ],
+  "author": {
+    "name": "Liming Xie"
+  },
+  "license": "MIT"
+}
