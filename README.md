@@ -3,6 +3,9 @@
 Game demo for [Cordova AdMob plugin](https://github.com/floatinghotpot/cordova-admob-pro/), using phaser HTML5 game engine
 
 ### Quick Start ###
+
+First, make sure Android SDK (for android) or Xcode (for iOS) is installed.
+
 ```bash
 # install cordova CLI
 [sudo] npm install cordova -g
